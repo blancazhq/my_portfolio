@@ -1,3 +1,4 @@
+//comments
 //social network icons jump
 icon = document.getElementsByClassName("icon");
 function spin1() {
