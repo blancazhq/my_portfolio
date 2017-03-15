@@ -28,6 +28,11 @@ for(var i = 0; i < nav_item.length; i++){
   nav_item[i].addEventListener("mouseenter", giggle);
 }
 
+//nav scrolling
+$('#nav_ul').onePageNav();
+
+//front page parallax
+$('#scene').parallax();
 
 //front page circle spin
 
